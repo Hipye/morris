@@ -1,0 +1,5 @@
+﻿Name=经典皮肤+extend
+Style=default
+SupportPlatform=A
+SkinFlags=1
+
